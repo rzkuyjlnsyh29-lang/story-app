@@ -1,0 +1,2 @@
+APP_URL=https://your-deployment-url.com
+MAP_SERVICE_API_KEY=OpenStreetMap (tidak memerlukan API key)
